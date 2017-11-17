@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  BurnDVD.cpp
+  debuglog.cpp
+  DiscFormatData.cpp
+  DiscFormatDataEvent.cpp
+  DiscMaster.cpp
+  DiscRecorder.cpp
+    正在创建库 C:\Users\giga\Desktop\BurnDVD\Release\BurnDVD.lib 和对象 C:\Users\giga\Desktop\BurnDVD\Release\BurnDVD.exp
+  正在生成代码
+  All 314 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  BurnDVD.vcxproj -> C:\Users\giga\Desktop\BurnDVD\Release\BurnDVD.dll
+  BurnDVD.vcxproj -> C:\Users\giga\Desktop\BurnDVD\Release\BurnDVD.pdb (Full PDB)
